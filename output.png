@@ -1,0 +1,36 @@
+
+--- Order ---
+Deluxe Veg Pizza
+Quantity: 4
+Base Price: 2200
+Extra Cheese: 400
+Extra Toppings: 600
+Take Away: 20
+Order Total: 3170
+--------------------
+
+--- Order ---
+Non-Veg Pizza
+Quantity: 7
+Base Price: 2800
+Extra Cheese: 700
+Extra Toppings: 1050
+Take Away: 20
+Order Total: 4063
+--------------------
+
+--- Order ---
+Non-Veg Pizza
+Quantity: 12
+Base Price: 4800
+Extra Cheese: 1200
+Extra Toppings: 1800
+Take Away: 20
+Order Total: 6988
+--------------------
+
+========= FINAL BILL =========
+Total Amount Payable: 14221
+Loyalty Points Earned: 245
+Thank you for ordering! 🍕 Come Again!
+==============================
