@@ -31,3 +31,7 @@ and improved my logical thinking and problem-solving skills.
 
 ---
 👩‍💻 Developed during my Java Development Internship
+
+## 🖥 Sample Output
+
+![Program Output](output.png)
